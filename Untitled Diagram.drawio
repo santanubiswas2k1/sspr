@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T21:22:40.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="WH7lt0MkWsF2nnh3FiDW" type="github"><diagram id="3RvN6l47yJ_g0SNBJMLY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-07T21:35:19.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ajqgbl74Wm2m7MOswFTe" version="20.2.3" type="github">
+  <diagram id="3RvN6l47yJ_g0SNBJMLY" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-1" value="Local Jenkins on personal Laptop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-2" value="Terraform and Ansible Code for Pipeline at Azure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-3" value="Create Jenkins environment on AKS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="281" y="79" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-5" value="state on Azure Blob" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-6" value="Practise AWS Component" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="79" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="469" as="sourcePoint" />
+            <mxPoint x="200" y="69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="469" as="sourcePoint" />
+            <mxPoint x="440" y="69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-10" value="Azure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="34" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-11" value="AWS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GRtJI2fDkpzWtobgYo_h-12" value="&lt;ul&gt;&lt;li&gt;IAM&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
